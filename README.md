@@ -8,6 +8,7 @@
 <p> doesn't write itself.</p>
 <p></p>
 <p></p>
+<img src="https://www.reddit.com/r/kittens/comments/irfhvq/just_a_little_cute_kitten/"/>
 <p></p>
 <br></br>
 <br></br>

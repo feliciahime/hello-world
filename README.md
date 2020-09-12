@@ -2,10 +2,10 @@
 <h2>Hello World Tutorial</h2>
 
 <h3>A haiku:</h3>
-
-<br> A blinking cursor --</br>
-<br> haunting me line by line. This code </br>
-<br> doesn't write itself.</br>
+<br></br>
+<p> A blinking cursor --</p>
+<p> haunting me line by line. This code </p>
+<p> doesn't write itself.</p>
 <p></p>
 <p></p>
 <p></p>
